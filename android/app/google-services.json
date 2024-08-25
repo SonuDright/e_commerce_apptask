@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30814259370",
+    "project_id": "push-notificatrion",
+    "storage_bucket": "push-notificatrion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30814259370:android:db5a419ee79e7628cde8d3",
+        "android_client_info": {
+          "package_name": "com.example.e_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpC_F8QCWrWfzujgvJ_uftm-QfMRcPMmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30814259370:android:6de0b33506dff5e4cde8d3",
+        "android_client_info": {
+          "package_name": "com.example.locale_notification_onlyone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpC_F8QCWrWfzujgvJ_uftm-QfMRcPMmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
